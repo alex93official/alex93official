@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @alex93official
 - 👀 I’m interested in programming, networking, linux.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 It's never been easier to find the best junior frontend developer.
+- 📫 It's never been easier to find the best junior developer.
+-  ---  Hiring Junior Developers Helps The Industry ---
 
 <!---
 alex93official/alex93official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
